@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="margen_pantalla">16dp</dimen>
+    <dimen name="margen_tarjeta">12dp</dimen>
+    <dimen name="espacio_entre_controles">8dp</dimen>
+    <dimen name="espacio_entre_productos">8dp</dimen>
+    <dimen name="espacio_acciones">56dp</dimen>
+    <dimen name="altura_minima_tarjeta">96dp</dimen>
+</resources>

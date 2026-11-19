@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lista de la compra</string>
+    <string name="nombre_producto">Nombre del producto</string>
+    <string name="anadir">Añadir</string>
+    <string name="lista_vacia">La lista de la compra está vacía</string>
+    <string name="cd_producto_pendiente">Producto pendiente: %1$s</string>
+    <string name="cd_producto_comprado">Producto comprado: %1$s</string>
+    <string name="cd_eliminar_producto">Eliminar %1$s</string>
+    <string name="producto_ejemplo_leche">Leche</string>
+    <string name="producto_ejemplo_pan">Pan</string>
+    <string name="producto_ejemplo_huevos">Huevos</string>
+
+    <plurals name="productos_pendientes">
+        <item quantity="one">1 producto pendiente</item>
+        <item quantity="other">%d productos pendientes</item>
+    </plurals>
+</resources>

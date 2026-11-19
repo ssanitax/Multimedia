@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="nombre_producto">Product name</string>
+    <string name="anadir">Add</string>
+    <string name="lista_vacia">The shopping list is empty</string>
+    <string name="cd_producto_pendiente">Pending product: %1$s</string>
+    <string name="cd_producto_comprado">Purchased product: %1$s</string>
+    <string name="cd_eliminar_producto">Delete %1$s</string>
+    <string name="producto_ejemplo_leche">Milk</string>
+    <string name="producto_ejemplo_pan">Bread</string>
+    <string name="producto_ejemplo_huevos">Eggs</string>
+
+    <plurals name="productos_pendientes">
+        <item quantity="one">1 pending product</item>
+        <item quantity="other">%d pending products</item>
+    </plurals>
+</resources>
